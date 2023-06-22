@@ -25,7 +25,7 @@ function Footer() {
           </form>
         </div>
       </section> */}
-      <div className='footer-links'>
+      {/* <div className='footer-links'>
         <div className='footer-link-wrapper'>
           <div className='footer-link-items'>
             <h2>Namangan-city.uz</h2>
@@ -54,7 +54,7 @@ function Footer() {
            
           </div>
         </div>
-      </div>
+      </div> */}
       <section className='social-media'>
         <div className='social-media-wrap'>
           <div className='footer-logo'>
